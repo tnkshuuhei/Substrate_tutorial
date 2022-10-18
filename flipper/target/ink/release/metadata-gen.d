@@ -1,0 +1,1 @@
+/Users/tanakashuuhei/developer/substrate_tutorial/flipper/target/ink/release/metadata-gen: /Users/tanakashuuhei/developer/substrate_tutorial/flipper/lib.rs /private/var/folders/66/k_wkmz457bdfty_6s40z1x6w0000gn/T/cargo-contract_7TlSW6/.ink/metadata_gen/main.rs
